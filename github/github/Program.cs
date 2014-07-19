@@ -10,7 +10,7 @@ namespace github
         static void Main(string[] args)
         {
 
-
+            /* Simple print */
             Console.WriteLine("hello git");
 
         }
